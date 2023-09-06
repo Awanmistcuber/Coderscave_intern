@@ -1,4 +1,4 @@
-# Coderscave_intern
+# Breast Cancer Prediction Project
 
 Hey everyone,
 
